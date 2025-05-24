@@ -1,0 +1,49 @@
+html{
+  background-color: rgb(194, 174, 221); ;
+}
+
+main{
+  background-color: rgba(130, 112, 211, 0.678);
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px rgba(39, 29, 83, 0.678);
+
+}
+
+img {
+  display: block;
+}
+#image{
+  max-width:100%;
+  height: auto;
+}
+#img-div{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+#img-caption {
+  text-align: center;
+  margin-top: 8px;
+  font-size: 0.9em;
+}
+
+h1,h2,p{
+  text-align: center;
+  color: rgb(63, 0, 100);
+}
+
+h1{
+  padding-top: 15px;
+}
+
+#tribute-link{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 15px;
+}
+
+a{
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+}
