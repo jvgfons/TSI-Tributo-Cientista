@@ -32,6 +32,9 @@ h1,h2,p{
   text-align: center;
   color: rgb(63, 0, 100);
 }
+p{
+  color: rgb(28, 0, 44);
+}
 
 h1{
   padding-top: 15px;
