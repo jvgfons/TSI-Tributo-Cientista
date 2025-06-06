@@ -23,27 +23,27 @@ A página de tributo inclui os seguintes elementos e seções:
 
 * **Conteúdo Principal:**
 
-        Um título principal com o nome da homenageada.
+Um título principal com o nome da homenageada.
 
-        Uma seção de imagem contendo uma foto e uma legenda.
+Uma seção de imagem contendo uma foto e uma legenda.
 
-        Uma seção de informaçõescom um subtítulo e parágrafos detalhando a biografia e as conquistas de Nadia Ayad.
+Uma seção de informaçõescom um subtítulo e parágrafos detalhando a biografia e as conquistas de Nadia Ayad.
 
-        Um link no final da página para um recurso externo com mais informações sobre a cientista.
+Um link no final da página para um recurso externo com mais informações sobre a cientista.
 
 * **Interface e Estilização:**
 
-        Layout centralizado e responsivo que se adapta a diferentes tamanhos de tela.
+Layout centralizado e responsivo que se adapta a diferentes tamanhos de tela.
 
-        Imagem de fundo para a ambientação da página.
+Imagem de fundo para a ambientação da página.
 
-        Estilização personalizada dos textos, cores e espaçamentos para garantir uma boa legibilidade e apresentação visual.
+Estilização personalizada dos textos, cores e espaçamentos para garantir uma boa legibilidade e apresentação visual.
 
 ## Créditos e Atribuições
 
-    Informações Biográficas: As informações sobre Nadia Ayad foram compiladas a partir de fontes de conhecimento geral.
+Informações Biográficas: As informações sobre Nadia Ayad foram compiladas a partir de fontes de conhecimento geral.
 
-    Imagens: A imagem da cientista e o plano de fundo foram criados e obtidos utilizando a plataforma Canva.
+Imagens: A imagem da cientista e o plano de fundo foram criados e obtidos utilizando a plataforma Canva.
 
 ## Autor
 
