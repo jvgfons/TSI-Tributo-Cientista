@@ -1,9 +1,8 @@
 ## Projeto Página de Tributo
 
 Projeto de uma página de tributo para a disciplina Marcação e Layout para Web.
-Descrição
 
-Este projeto consiste na criação de uma página de tributo como parte da avaliação da disciplina Marcação e Layout para Web. O projeto foi desenvolvido para atender aos requisitos da [Atividade do FreeCodeCamp], Sendo um website similar ao [exemplo](https://tribute-page.freecodecamp.rocks/).
+Este projeto consiste na criação de uma página de tributo como parte da avaliação da disciplina Marcação e Layout para Web. O projeto foi desenvolvido para atender aos requisitos da atividade do [FreeCodeCamp](https://www.freecodecamp.org/), Sendo um website similar ao [exemplo](https://tribute-page.freecodecamp.rocks/).
 
 A página tem como objetivo homenagear a cientista brasileira Nadia Ayad, destacando sua trajetória acadêmica e suas contribuições inovadoras no campo da ciência de materiais, como a criação de um sistema de dessalinização de água com grafeno.
 
